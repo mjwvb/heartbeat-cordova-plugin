@@ -1,0 +1,26 @@
+{
+    "version": "0.2.2",
+    "name": "com.litekey.cordova.plugins.heartbeat",
+    "cordova_name": "HeartBeat",
+    "description": "Cordova Heart Beat Monitor",
+    "license": "MIT",
+    "author": "LiteKey",
+    "repo": "https://github.com/Litekey/heartbeat-cordova-plugin.git",
+    "issue": "https://github.com/Litekey/heartbeat-cordova-plugin/issues",
+    "keywords": [
+      "cordova",
+      "heart",
+      "beat",
+      "rate",
+      "bpm"
+    ],
+    "platforms": [
+      "ios"
+    ],
+    "engines": [
+      {
+        "name": "cordova",
+        "version": ">=3.0.0"
+      }
+    ]
+  }
